@@ -1,0 +1,32 @@
+# Vivado generated directories
+/.Xil/
+/project_1.cache/
+/project_1.gen/
+/project_1.hw/
+/project_1.ip_user_files/
+/project_1.runs/
+/project_1.sim/
+
+# Vivado generated and temporary files
+*.bit
+*.bin
+*.dcp
+*.jou
+*.log
+*.ltx
+*.pb
+*.str
+*.tmp
+*.vcd
+*.wdb
+*.zip
+
+# Local duplicate/source-artifact files
+/data_path_diagram
+/data_path_diagram.png
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
